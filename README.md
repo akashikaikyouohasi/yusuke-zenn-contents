@@ -11,4 +11,5 @@ npx zenn new:article
 ```
 npx zenn preview 
 ```
+http://localhost:8000
 
